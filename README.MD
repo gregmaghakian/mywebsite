@@ -1,0 +1,1 @@
+Using jekyll to create a static website which I will host using gh_pages through my custom domain gregmaghakian.com
